@@ -16,7 +16,7 @@ h1 {
   position: fixed;
   top: 30px;
   left: 50%;
-  font-size: 50px;
+  font-size: 40px;
   transform: translateX(-50%);
 }
 
