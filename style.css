@@ -14,10 +14,9 @@ body {
 
 h1 {
   position: fixed;
+  margin: 0 auto;
   top: 30px;
-  left: 50%;
   font-size: 40px;
-  transform: translateX(-50%);
 }
 
 a {
